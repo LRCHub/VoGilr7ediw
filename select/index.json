@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Cure For Me",
+  "base_artist": "AURORA",
+  "createdAt": "2025-12-06T04:13:35.073657Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cure For Me",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/01_Cure_For_Me_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Betchya Got a Cure for Me",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": false,
+      "path": "select/02_Betchya_Got_a_Cure_for_Me_Sophie_B._Hawkins.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Betchya Got a Cure for Me (long)",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": false,
+      "path": "select/03_Betchya_Got_a_Cure_for_Me_(long)_Sophie_B._Hawkins.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cure For Me",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/04_Cure_For_Me_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cure For Me",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/05_Cure_For_Me_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cure For Me",
+      "artist": "Aurora",
+      "has_synced": true,
+      "path": "select/06_Cure_For_Me_Aurora.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cure for Me - Acoustic",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/07_Cure_for_Me_-_Acoustic_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cure For Me (Acoustic)",
+      "artist": "Aurora",
+      "has_synced": true,
+      "path": "select/08_Cure_For_Me_(Acoustic)_Aurora.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cure For Me (feat. Silvana Estrada) [Live]",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/09_Cure_For_Me_(feat._Silvana_Estrada)_[Live]_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cure For Me (feat. Silvana Estrada) (Live)",
+      "artist": "Aurora",
+      "has_synced": true,
+      "path": "select/10_Cure_For_Me_(feat._Silvana_Estrada)_(Live)_Aurora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cure for Me",
+      "artist": "Aurora",
+      "has_synced": true,
+      "path": "select/11_Cure_for_Me_Aurora.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cure For Me",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/12_Cure_For_Me_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cure For Me (Acoustic)",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/13_Cure_For_Me_(Acoustic)_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cure For Me - Vintage Culture Remix",
+      "artist": "AURORA feat. Vintage Culture",
+      "has_synced": true,
+      "path": "select/14_Cure_For_Me_-_Vintage_Culture_Remix_AURORA_feat._Vintage_Culture.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cure For Me - Vintage Culture Remix",
+      "artist": "AURORA/Vintage Culture",
+      "has_synced": true,
+      "path": "select/15_Cure_For_Me_-_Vintage_Culture_Remix_AURORA_Vintage_Culture.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cure For Me",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/16_Cure_For_Me_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cure For Me - Vintage Culture Extended Remix",
+      "artist": "AURORA feat. Vintage Culture",
+      "has_synced": false,
+      "path": "select/17_Cure_For_Me_-_Vintage_Culture_Extended_Remix_AURORA_feat._Vintage_Culture.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cure For Me - Vintage Culture Extended Remix",
+      "artist": "AURORA",
+      "has_synced": false,
+      "path": "select/18_Cure_For_Me_-_Vintage_Culture_Extended_Remix_AURORA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cure For Me",
+      "artist": "AURORA",
+      "has_synced": false,
+      "path": "select/pl_01_Cure_For_Me_AURORA.txt"
+    }
+  ]
+}
